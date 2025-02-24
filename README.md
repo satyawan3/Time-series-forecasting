@@ -45,6 +45,7 @@ April 2015	343,295
 •	Target: 1 million monthly users.
 •	Highest Predicted Traffic: 394,154 users (far below target).
 •	Shortfall: ~60% below the required threshold.
+
 Conclusion: Based on the ARIMA forecast, JetRail is not projected to reach 1 million users per month within the required timeframe.
 ________________________________________
 4. Recommendation
@@ -56,8 +57,9 @@ ________________________________________
 ________________________________________
 5. Next Steps
    
-1.	Conduct further analysis on seasonal trends and external factors affecting ridership.
-2.	Explore business interventions (pricing, advertising, new routes) to boost user adoption.
-3.	Consider alternative forecasting approaches for cross-validation.
+•	Conduct further analysis on seasonal trends and external factors affecting ridership.
+•	Explore business interventions (pricing, advertising, new routes) to boost user adoption.
+•	Consider alternative forecasting approaches for cross-validation.
+
 ________________________________________
 
