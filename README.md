@@ -29,6 +29,7 @@ o	XGBoost (initial implementation, but underperformed and was not used for final
 •	Forecast Period: Next 7 months (~214 days).
 ________________________________________
 3. Key Findings
+   
 3.1 Forecasted Monthly Traffic
 Month	Predicted Users
 September 2014	63,572
