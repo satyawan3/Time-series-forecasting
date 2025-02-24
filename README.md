@@ -16,9 +16,11 @@ Data
 
 
 Investment Feasibility Report: JetRail Traffic Forecast
+<br>
 ________________________________________
 1. Introduction
 Unicorn Investors is evaluating a potential investment in JetRail, a high-speed rail service utilizing jet propulsion technology. The key investment criterion is reaching a minimum of 1 million monthly users within the next 18 months. This report presents a time series analysis using ARIMA to forecast JetRail's expected traffic over the next 7 months.
+<br>
 ________________________________________
 2. Methodology
 <br>
@@ -31,6 +33,7 @@ o	XGBoost (initial implementation, but underperformed and was not used for final
 •	Evaluation Metric: Root Mean Squared Error (RMSE), with ARIMA achieving 40.97.
 <br>
 •	Forecast Period: Next 7 months (~214 days).
+<br>
 ________________________________________
 3. Key Findings
    
@@ -52,15 +55,18 @@ April 2015	343,295
 •	Highest Predicted Traffic: 394,154 users (far below target).
 <br>
 •	Shortfall: ~60% below the required threshold.
-
+<br>
 Conclusion: Based on the ARIMA forecast, JetRail is not projected to reach 1 million users per month within the required timeframe.
+<br>
 ________________________________________
 4. Recommendation
+   <br>
 🚫 Investment NOT Recommended at this Stage.
 
 •	JetRail’s projected growth is insufficient to meet investment criteria.
 •	Alternative growth strategies (e.g., marketing, route expansion) should be explored before considering an investment.
 •	Additional validation with alternative forecasting models (e.g., SARIMA, Prophet) could provide further insights.
+<br>
 ________________________________________
 5. Next Steps
 <br>
