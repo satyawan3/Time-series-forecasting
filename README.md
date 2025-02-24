@@ -60,15 +60,14 @@ Conclusion: Based on the ARIMA forecast, JetRail is not projected to reach 1 mil
 <br>
 
 4. Recommendation
-   <br>
+<br>
 🚫 Investment NOT Recommended at this Stage.
-
 •	JetRail’s projected growth is insufficient to meet investment criteria.
 •	Alternative growth strategies (e.g., marketing, route expansion) should be explored before considering an investment.
 •	Additional validation with alternative forecasting models (e.g., SARIMA, Prophet) could provide further insights.
 <br>
 
-5. Next Steps
+6. Next Steps
 <br>
 •	Conduct further analysis on seasonal trends and external factors affecting ridership.
 <br>
