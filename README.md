@@ -23,6 +23,7 @@ Unicorn Investors is evaluating a potential investment in JetRail, a high-speed 
 <br>
 
 2. Methodology
+   
 <br>
 •	Dataset Used: Historical traffic data from JetRail.
 <br>
@@ -35,8 +36,9 @@ o	XGBoost (initial implementation, but underperformed and was not used for final
 •	Forecast Period: Next 7 months (~214 days).
 <br>
 
-3. Key Findings
+4. Key Findings
    
+<br>  
 3.1 Forecasted Monthly Traffic
 Month	Predicted Users
 September 2014	63,572
@@ -47,7 +49,7 @@ January 2015	394,154
 February 2015	356,010
 March 2015	394,154
 April 2015	343,295
-
+<br>
 3.2 Investment Criteria Evaluation
 <br>
 •	Target: 1 million monthly users.
@@ -60,6 +62,7 @@ Conclusion: Based on the ARIMA forecast, JetRail is not projected to reach 1 mil
 <br>
 
 4. Recommendation
+   
 <br>
 🚫 Investment NOT Recommended at this Stage.
 •	JetRail’s projected growth is insufficient to meet investment criteria.
@@ -67,7 +70,8 @@ Conclusion: Based on the ARIMA forecast, JetRail is not projected to reach 1 mil
 •	Additional validation with alternative forecasting models (e.g., SARIMA, Prophet) could provide further insights.
 <br>
 
-6. Next Steps
+5. Next Steps
+   
 <br>
 •	Conduct further analysis on seasonal trends and external factors affecting ridership.
 <br>
